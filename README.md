@@ -7,9 +7,9 @@ This repo contains Keras implementation of CAM, Grad-CAM, Guided Grad-CAM on the
 ![CAM, Grad-CAM, Guided Grad-CAM](resnet50_guided_grad_cam.png)
 
 ## Original Paper links
-CAM: <a href="https://arxiv.org/abs/1512.04150"></a>
-Grad-CAM: <a href="https://arxiv.org/abs/1610.02391">https://arxiv.org/abs/1610.02391</a>
-Guided Backpropagation: <a href="https://arxiv.org/abs/1412.6806">https://arxiv.org/abs/1412.6806</a>
+CAM: <a href="https://arxiv.org/abs/1512.04150"></a>  
+Grad-CAM: <a href="https://arxiv.org/abs/1610.02391">https://arxiv.org/abs/1610.02391</a>  
+Guided Backpropagation: <a href="https://arxiv.org/abs/1412.6806">https://arxiv.org/abs/1412.6806</a>  
 
 ## Data Source
 I crawled the original images from Google and cropped faces myself. The dataset is available for any research purposes.
